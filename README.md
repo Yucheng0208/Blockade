@@ -15,7 +15,7 @@
 * Step 3. Use the `pip install tkinter` function, install Tkinter.
 ---
 # Resources
-## [1]: python.org "Python"
+## [1]: https://www.python.org "Python"
 ## [2]: https://pypi.org/project/pip/ "Pypi"
 ## [3]: https://pypi.org/project/numpy/ "Numpy"
 ## [4]: https://pypi.org/project/tk/ "Tkiner"
