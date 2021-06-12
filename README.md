@@ -20,5 +20,4 @@
 ## [3]: https://pypi.org/project/numpy/ "Numpy"
 ## [4]: https://pypi.org/project/tk/ "Tkiner"
 ## [5]: https://www.developershome.com/7-zip/ "7-Zip(zh-Tw)"
----
 ###### Update (2021/06/12)
