@@ -5,7 +5,7 @@
 * Step 4. Run >>> `Blockade.exe`
 ---
 # Language
-###Taiwan `zh-TW`
+### Taiwan `zh-TW`
 ---
 # Installer
 ## Python v3.x(and above)
